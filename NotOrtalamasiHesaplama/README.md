@@ -1,18 +1,9 @@
-## Getting Started
+## Not Ortalaması Hesaplayan Program
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
 
-## Folder Structure
+# Koşul
 
-The workspace contains two folders by default, where:
+- Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması `60`'dan büyük ise ekrana `Sınıfı Geçti` , küçük ise `Sınıfta Kaldı` yazsın.
+- `Not : If ve Else kullanılmayacak.`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
