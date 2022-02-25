@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
          /** @author Aykut Cihan Sevim - 2022 */
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
        int mat, fzk, kmy, trc, trh, mzk;
 
