@@ -32,6 +32,8 @@ public class App {
 
         selectionSort(numberArrayForSorting);
         System.out.println("Küçükten Büyüğe Sıralı Sayılar : \n" +Arrays.toString(numberArrayForSorting));
+
+        input.close();
     }
 
     /* selectionSort methodu ile rastgele olarak elde ettiğimiz sayı dizimizi, Selection Sort algoritması ile küçükten büyüğe sıralıyoruz. */
