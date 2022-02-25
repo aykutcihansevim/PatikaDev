@@ -1,6 +1,6 @@
 ## Hava Sıcaklığına Göre Etkinlik Önerme Projesi
 
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp sınıf geçme durumunu ekrana bastıran programı yazın.
+Java ile hava sıcaklığına göre öneri yapan programı yazın.
 
 # Koşul
 
