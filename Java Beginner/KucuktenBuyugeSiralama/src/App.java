@@ -17,14 +17,15 @@ public class App {
         System.out.print("Dizide en büyük sayı kaç olabilir? " + "Yanıtınız :");
         maxRange = input.nextInt();
 
-        if(maxRange < numberLimit)
+        while(maxRange < numberLimit)
         {
             System.out.println("En büyük sayı, dizide bulunacak sayı adetinden küçük olamaz. Lütfen geçerli değerler giriniz."); 
             System.out.println("Dizide kaç adet sayı bulunacak? :"+ "\n Yanıtınız :");
             numberLimit = input.nextInt();
             System.out.println("Dizide en büyük sayı kaç olabilir? :"+ "\n Yanıtınız :");
             maxRange = input.nextInt();
-        }
+        };
+        
       
         int[] numberArrayForSorting = getRandomNumbers(numberLimit,maxRange);
         System.out.println("Sıralanacak Sayılar : " +Arrays.toString(numberArrayForSorting));
