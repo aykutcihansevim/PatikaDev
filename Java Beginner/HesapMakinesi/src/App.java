@@ -59,5 +59,6 @@ public class App {
             System.out.println("Hatalı seçim yaptınız. Tekrar deneyiniz.");
                 
         }
+        input.close();
     }
 }
