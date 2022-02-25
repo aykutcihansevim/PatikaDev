@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.Scanner;
 
 public class App {
-    
+        /** @author Aykut Cihan Sevim - 2022 */
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
