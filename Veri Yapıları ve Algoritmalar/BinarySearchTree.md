@@ -20,7 +20,7 @@ Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer a
                 / \
                2   4   
 
-- (Veri Yapıları ve Algoritmalar\BinaryTree.png)
+- <img  src="https://github.com/aykutcihansevim/PatikaDev/blob/main/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/BinaryTree.png?raw=true">
 
 # 2 - Big-O gösterimini yazınız. 
 - Big-O Notation : `O(nlogn)`
