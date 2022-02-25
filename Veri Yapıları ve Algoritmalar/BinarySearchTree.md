@@ -20,7 +20,7 @@ Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer a
                 / \
                2   4   
 
-- (.vscode\Veri Yapıları ve Algoritmalar\BinaryTree.png)
+- (Veri Yapıları ve Algoritmalar\BinaryTree.png)
 
 # 2 - Big-O gösterimini yazınız. 
 - Big-O Notation : `O(nlogn)`
