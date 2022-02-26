@@ -24,7 +24,7 @@ public class App {
         input.close();
     }
 
-
+ 
     private static String calculateChineseZodiac(int birthdate, String zodiac){
         
         switch(birthdate % 12){
