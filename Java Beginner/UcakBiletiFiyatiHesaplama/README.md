@@ -11,22 +11,22 @@ Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan programı y
 # Senaryolar
 
 - `Senaryo 1 :` 
-Mesafeyi km türünden giriniz : 1500
-Yaşınızı giriniz : 20
-Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 2
+1. Mesafeyi km türünden giriniz : 1500
+2. Yaşınızı giriniz : 20
+3. Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 2
 
 Toplam Tutar = 216 TL
 
 - `Senaryo 2 :` 
-Mesafeyi km türünden giriniz : -500
-Yaşınızı giriniz : 1
-Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 77
+1. Mesafeyi km türünden giriniz : -500
+2. Yaşınızı giriniz : 1
+3. Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 77
 
 Hatalı Veri Girdiniz !
 
 - `Senaryo 3 :` 
-Mesafeyi km türünden giriniz : 200
-Yaşınızı giriniz : 35
-Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 1
+1. Mesafeyi km türünden giriniz : 200
+2. Yaşınızı giriniz : 35
+3. Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 1
 
 Toplam Tutar = 20.0 TL 
