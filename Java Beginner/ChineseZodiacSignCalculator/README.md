@@ -23,7 +23,7 @@ Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplaya
 - Doğum Tarihi %12 = 10 ➜ At
 - Doğum Tarihi %12 = 11 ➜ Koyun
 
-# Senaryolar
+# Senaryolar 
 
 - `Senaryo 1 :` 
 
