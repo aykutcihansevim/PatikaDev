@@ -139,7 +139,7 @@ public class BinarySearchTree {
                 / \
                2   4   
 
-<!-- - <img  src="images\BinaryTree.png"> -->
+<img  src="https://github.com/aykutcihansevim/PatikaDev/blob/main/images/BinaryTree.png?raw=true">
 
 ### 2 - Big-O gösterimini yazınız. 
 - Big-O Notation : `O(nlogn)`
