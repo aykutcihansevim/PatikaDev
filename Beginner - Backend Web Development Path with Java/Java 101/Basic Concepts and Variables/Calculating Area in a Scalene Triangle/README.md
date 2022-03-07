@@ -1,21 +1,22 @@
 # Calculating Area in a Scalene Triangle
 <details><summary>Turkish</summary>
 <p>
-<h1>Java 101 - Temel Kavramlar ve Değişkenler - Dik Üçgende Hipotenüs Bulma </h1>
+
+# Ödev
+## Java 101 - Temel Kavramlar ve Değişkenler - Dik Üçgende Hipotenüs Bulma 
  
  Kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
 
-# Görev - Çeşitkenar Üçgende Alan Hesaplama
+## Çeşitkenar Üçgende Alan Hesaplama
+Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
- Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
-
-## Formül
+### Formül
 
 - `Üç𝑔𝑒𝑛𝑖𝑛 ç𝑒𝑣𝑟𝑒𝑠𝑖` = 2𝑢
 - `𝑢` = (a+b+c) / 2
 - `Alan * Alan` = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
-## Örnek Çıktı
+### Örnek Çıktı
 
       - Birinci kenar uzunluğunu giriniz: 8
       - İkinci kenar uzunluğunu giriniz: 6
@@ -31,23 +32,26 @@
 
 </details>
 
+<p>
+</p>
+
 <details><summary>English</summary>
 <p>
-<h1>Java 101 - Basic Concepts and Variables - Finding the Hypotenuse in a Right Triangle </h1>
 
- Write a program that takes the length of the perpendicular sides from the user and calculates the hypotenuse. 
+# Assignment
+## Java 101 - Basic Concepts and Variables - Finding the Hypotenuse in a Right Triangle
+Write a program that takes the length of the perpendicular sides from the user and calculates the hypotenuse. 
 
-# Task - Calculating Area in a Scalene Triangle
- 
- Write a program that calculates the area of the triangle whose three side lengths you get from the user.   
+## Calculating Area in a Scalene Triangle
+Write a program that calculates the area of the triangle whose three side lengths you get from the user.   
 
-## Formula
+### Formula
 
 - `Circumference of Triangle` = 2𝑢
 - `𝑢` = (a+b+c) / 2
 - `Area * Area` = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
-## Sample Output
+### Sample Output
 
       - Enter the first side length: 8
       - Enter the second side length: 6
