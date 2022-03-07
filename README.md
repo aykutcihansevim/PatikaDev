@@ -74,7 +74,7 @@ Source : [Patika.dev About](https://www.patika.dev/about)
 <p>
 </p>
 
-# Patika.dev Assignments and Projects
+# Patika.dev Assignments & Projects
 <details><summary>Beginner - Backend Web Development Path with Java</summary>
   <p>
 
