@@ -1,4 +1,4 @@
-# [Patika.dev](https://app.patika.dev/)
+# [Patika.dev](https://www.patika.dev/tr)
 <p align="center">
   <img width="1000" height="300" src="https://github.com/aykutcihansevim/PatikaDev/blob/main/images/patikadev.png?raw=true">
 </p>
