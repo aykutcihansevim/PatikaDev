@@ -51,82 +51,11 @@ public class App {
            toplam += mzk;
        }
 
-
-
-    //    if(mat >= 0 & mat <= 100)
-    //    {
-    //         if(fzk >= 0 & fzk <= 100)
-    //         {
-    //             if(kmy >= 0 & kmy <= 100)
-    //             {
-    //                 if(trc >= 0 & trc <= 100)
-    //                 {
-    //                     if(mzk >= 0 & mzk <= 100)
-    //                     {
-    //                         toplam = mat + fzk + kmy + trc + mzk;
-    //                     }
-                        
-    //                 }
-                   
-    //             }
-                
-    //         }
-    //     }
-
-    //     else if(fzk >= 0 & fzk <= 100)
-    //     {
-    //         if(kmy >= 0 & kmy <= 100)
-    //             {
-    //                 if(trc >= 0 & trc <= 100)
-    //                 {
-    //                     if(mzk >= 0 & mzk <= 100)
-    //                     {
-    //                         toplam = fzk + kmy + trc + mzk;
-    //                     }
-    //                 } 
-    //             }
-    //     }
-
-    //     else if(kmy >= 0 & kmy <= 100)
-    //     {
-    //         if(trc >= 0 & trc <= 100)
-    //         {
-    //             if(mzk >= 0 & mzk <= 100)
-    //             {
-    //                 toplam = kmy + trc + mzk;
-    //             }
-    //         } 
-    //     }
-
-    //     else if(trc >= 0 & trc <= 100)
-    //     {
-    //         if(mzk >= 0 & mzk <= 100)
-    //         {
-    //             toplam = trc + mzk;
-    //         }
-    //     }
-
-    //     else if(mzk >= 0 & mzk <= 100)
-    //     {
-    //         toplam = mzk;
-    //     }
-
-    //     else
-    //     {
-    //         toplam = 0;
-
-    //     }
-
-       
-
-
        ortalama = toplam / dersSayisi;
-       
-       
 
        System.out.println("Ortalamanız: " + ortalama);
 
-       String gecmeDurumu = (ortalama > 55) ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+       String gecmeDurumu = (ortalama > 55) ? "Tebrikler! Sınıfı geçtiniz." : "Sınıfta kaldınız. Seneye tekrar görüşmek üzere!";
        System.out.println(gecmeDurumu);
 
        input.close();

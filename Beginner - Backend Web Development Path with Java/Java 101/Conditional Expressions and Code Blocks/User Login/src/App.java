@@ -34,19 +34,16 @@ public class App {
                     password = "pikacu";
                     System.out.println("Lütfen yeni şifrenizi giriniz : ");
                     newPassword = input.next();
-    
                     System.out.println("\n");
-    
-                    if(newPassword.equals(password))
-                    {
-                        System.out.println("Şifre oluşturulamadı, lütfen daha sonra tekrar deneyiniz."); 
+
+                    while(newPassword.equals(password)){
+                        System.out.print("Şifre oluşturulamadı, lütfen başka şifre giriniz. Yeni şifreniz : ");
+                        newPassword = input.next();
                     }
-                    else
-                    {
-                        password = newPassword;
-                        System.out.println("Şifre başarıyla oluşturuldu.");
-                    }
-    
+             
+                    password = newPassword;
+                    System.out.println("Şifre başarıyla oluşturuldu.");
+
                 }
                 else
                 {
@@ -57,8 +54,6 @@ public class App {
             {
                 System.out.println("Böyle bir kullanıcı bulunamadı. " + "(Kullanıcı Adı: "+userName+")");
             }
-
-
         }
 
         input.close();

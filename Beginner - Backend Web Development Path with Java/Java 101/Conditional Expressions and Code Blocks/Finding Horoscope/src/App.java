@@ -8,17 +8,17 @@ public class App {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Doğdunuz ay(1-12) : ");
+        System.out.print("Doğdunuz Ay(1-12) : ");
         month = input.nextInt();
-        System.out.print("Doğdunuz gün(1-31) : ");
+        System.out.print("Doğdunuz Gün(1-31) : ");
         day = input.nextInt();
        
         while(month < 1 || month > 12 || day < 1 || day > 31)
         {
             System.out.println("Geçersiz bir tarih girdiniz. Lütfen doğum tarihinizi tekrar giriniz." + "\n");
-            System.out.print("Doğdunuz ay(1-12) : ");
+            System.out.print("Doğdunuz Ay(1-12) : ");
             month = input.nextInt();
-            System.out.print("Doğdunuz gün(1-31) : ");
+            System.out.print("Doğdunuz Gün(1-31) : ");
             day = input.nextInt();
         }
 

@@ -1,13 +1,15 @@
-## Çin Zodyağı Burcu Hesaplama
+# Chinese Zodiac Calculator
+<details><summary>Turkish</summary>
+<p>
 
+# Ödev
+## Java 101 - Koşullu İfadeler ve Kod Blokları - Çin Zodyağı Hesaplama
 Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız.
 
-# Çin Zodyağı nedir?
-
+### Çin Zodyağı nedir?
 4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.
 
-# Çin Zodyağı nasıl hesaplanır?
-
+### Çin Zodyağı nasıl hesaplanır?
 Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
 
 - Doğum Tarihi %12 = 0 ➜ Maymun
@@ -23,10 +25,26 @@ Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplaya
 - Doğum Tarihi %12 = 10 ➜ At
 - Doğum Tarihi %12 = 11 ➜ Koyun
 
-# Senaryolar 
+### Örnek Çıktı
 
-- `Senaryo 1 :` 
+    Doğum Yılınızı Giriniz : 1990
+    Çin Zodyağı Burcunuz : At
 
-1. Doğum Yılınızı Giriniz : 1990
-2. Çin Zodyağı Burcunuz : At
+</p>
 
+</details>
+
+<p>
+</p>
+
+ <details><summary>English</summary>
+  <p>
+
+  </p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/aykutcihansevim/PatikaDev/blob/main/images/workinprogress.png?raw=true">
+  <img width="600" height="300" src="https://github.com/aykutcihansevim/PatikaDev/blob/main/images/underconscontentwillbe.png?raw=true">
+</p>
+
+</details>
