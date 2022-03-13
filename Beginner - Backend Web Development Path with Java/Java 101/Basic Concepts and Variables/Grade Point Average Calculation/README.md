@@ -47,7 +47,7 @@ Write the program that takes the exam scores of Mathematics, Physics, Chemistry,
         Your Physics Grade: 55
         Your Chemistry Grade: 50
         Your Turkish Grade: 100
-        Your Date Grade: 75
+        Your History Grade: 75
         Your Music Score: 100
         Your average: 78.33333333333333
         Passed the Class
