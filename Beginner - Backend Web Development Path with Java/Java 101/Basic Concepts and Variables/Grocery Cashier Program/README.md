@@ -1,4 +1,5 @@
 # Grocery Cashier Program
+#### [Patika : Manav Kasa Programı](https://app.patika.dev/moduller/java101/odev-manav-kasa)
 <details><summary>Turkish</summary>
 <p>
 

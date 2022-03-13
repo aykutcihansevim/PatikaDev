@@ -1,10 +1,11 @@
 # Sorting Numbers from Smallest to Largest
+#### [Patika : Sayıları Büyükten Küçüğe Sıralama](https://app.patika.dev/moduller/java101/pratik-sayi-siralama)
 <details><summary>Turkish</summary>
 <p>
 
 # Ödev
 ## Java 101 - Koşullu İfadeler ve Kod Blokları - Sayıları Küçükten Büyüğe Sıralama
-Java ile girilen 3 sayıyı küçükten büyüğe sıralayan programı yazınız.
+Java ile girilen 3 sayıyı küçükten büyüğe sıralayan programı yazın.
 
 
 ### Senaryolar 

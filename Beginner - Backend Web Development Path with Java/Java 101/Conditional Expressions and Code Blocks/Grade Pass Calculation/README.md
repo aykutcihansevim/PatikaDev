@@ -1,4 +1,5 @@
 # Grade Pass Calculation
+#### [Patika : Sınıfı Geçme Durumu](https://app.patika.dev/moduller/java101/pratik-sinif-gecme)
 <details><summary>Turkish</summary>
 <p>
 

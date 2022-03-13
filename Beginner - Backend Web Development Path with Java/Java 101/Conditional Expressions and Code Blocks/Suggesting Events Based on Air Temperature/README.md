@@ -1,10 +1,11 @@
 # Suggesting Events Based on Air Temperature
+#### [Patika : Hava Sıcaklığına Göre Etkinlik Önerme](https://app.patika.dev/moduller/java101/pratik-etkinlik-onerme)
 <details><summary>Turkish</summary>
 <p>
 
 # Ödev
 ## Java 101 - Koşullu İfadeler ve Kod Blokları - Hava Sıcaklığına Göre Etkinlik Önerme
-Java ile hava sıcaklığına göre öneri yapan programı yazınız.
+Java ile hava sıcaklığına göre öneri yapan programı yazın.
 
 ### Şartlar
 - Sıcaklık 5'dan az ise "Kayak" yapmayı önerin.

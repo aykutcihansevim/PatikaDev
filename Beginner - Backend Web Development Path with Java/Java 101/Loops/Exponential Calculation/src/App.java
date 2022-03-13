@@ -20,5 +20,7 @@ public class App {
         }
         
         System.out.println("Sonuç : " + result);
+
+        input.close();
     }
 }

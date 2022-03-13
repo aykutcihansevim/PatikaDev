@@ -1,4 +1,5 @@
 # Circle Area and Circumference Calculation
+#### [Patika : Dairenin Alanını ve Çevresini Bulan Program](https://app.patika.dev/moduller/java101/pratik-daire-alan-cevre)
 <details><summary>Turkish</summary>
 <p>
 
@@ -7,7 +8,7 @@
 Yarıçapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
 
 ## Daire Diliminin Alanını Hesaplama 
-   Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanını bulan programı yazınız.
+   Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanını bulan programı yazın.
 
 ### Formül
 

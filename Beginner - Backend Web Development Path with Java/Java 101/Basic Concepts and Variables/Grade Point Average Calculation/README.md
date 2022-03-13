@@ -1,4 +1,5 @@
 # Grade Point Average Calculation
+#### [Patika : Not Ortalaması Hesaplayan Program](https://app.patika.dev/moduller/java101/pratik-not-ortalamasi)
 <details><summary>Turkish</summary>
 <p>
 

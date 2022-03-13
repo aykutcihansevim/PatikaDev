@@ -1,10 +1,11 @@
 # Leap Year Calculator
+#### [Patika : Artık Yıl Hesaplama](https://app.patika.dev/moduller/java101/odev-artik-yil)
 <details><summary>Turkish</summary>
 <p>
 
 # Ödev
 ## Java 101 - Koşullu İfadeler ve Kod Blokları - Artık Yıl Hesaplama
-Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazınız.
+Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazın.
 
 ### Artık Yıl Nedir?
 

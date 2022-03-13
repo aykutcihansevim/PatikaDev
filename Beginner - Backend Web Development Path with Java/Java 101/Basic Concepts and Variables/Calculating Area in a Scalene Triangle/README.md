@@ -1,11 +1,12 @@
 # Calculating Area in a Scalene Triangle
+#### [Patika : Dik Üçgende Hipotenüs Bulan Program](https://app.patika.dev/moduller/java101/pratik-hipotenus-bulma)
 <details><summary>Turkish</summary>
 <p>
 
 # Ödev
 ## Java 101 - Temel Kavramlar ve Değişkenler - Dik Üçgende Hipotenüs Bulma 
  
- Kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
+ Kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazınız.
 
 ## Çeşitkenar Üçgende Alan Hesaplama
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.

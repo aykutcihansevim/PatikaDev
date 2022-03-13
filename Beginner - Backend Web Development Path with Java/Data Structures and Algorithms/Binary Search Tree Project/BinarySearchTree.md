@@ -1,8 +1,10 @@
 # Binary Search Tree Project
+#### [Patika : Binary Search Tree Projesi](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
 <details><summary>Turkish</summary>
   <p>
  
   # Ödev
+  ## Veri Yapıları ve Algoritmalar - Projeler - Binary Search Tree Projesi
   ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
 
   ### 1 - Yukarı verilen dizinin Binary-Search-Tree aşamalarını yazınız. 

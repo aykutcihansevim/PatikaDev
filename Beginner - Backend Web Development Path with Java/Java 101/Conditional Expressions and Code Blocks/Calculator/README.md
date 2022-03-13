@@ -1,4 +1,5 @@
 # Calculator
+#### [Patika : Hesap Makinesi](https://app.patika.dev/moduller/java101/pratik-hesap-mak-1)
 <details><summary>Turkish</summary>
 <p>
 

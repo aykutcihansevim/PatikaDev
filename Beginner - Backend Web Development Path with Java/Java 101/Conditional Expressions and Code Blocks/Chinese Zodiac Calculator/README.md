@@ -1,10 +1,11 @@
 # Chinese Zodiac Calculator
+#### [Patika : Çin Zodyağı Hesaplama](https://app.patika.dev/moduller/java101/odev-cin-zodyagi)
 <details><summary>Turkish</summary>
 <p>
 
 # Ödev
 ## Java 101 - Koşullu İfadeler ve Kod Blokları - Çin Zodyağı Hesaplama
-Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız.
+Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazın.
 
 ### Çin Zodyağı nedir?
 4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.

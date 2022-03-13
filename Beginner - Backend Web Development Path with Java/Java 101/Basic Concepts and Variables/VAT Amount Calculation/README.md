@@ -1,4 +1,5 @@
 # VAT Amount Calculation
+#### [Patika : KDV Tutarı Hesaplayan Program](https://app.patika.dev/moduller/java101/pratik-kdv-hesaplama)
 <details><summary>Turkish</summary>
 <p>
 

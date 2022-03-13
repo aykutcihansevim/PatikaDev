@@ -28,7 +28,7 @@ public class App {
         }
 
         divisibleAverage = (divisibleTotal / divisibleCount);
-        System.out.print(c +"Dahil olmak üzere bu değere kadar, üçe ve dörde tam olarak bölünebilen sayıların ortalaması : ");
+        System.out.print(c + " Dahil olmak üzere bu değere kadar, 3 ve 4'e tam olarak bölünebilen sayıların ortalaması : ");
         System.out.println(divisibleAverage);
 
         input.close();

@@ -35,8 +35,8 @@ public class App {
             }
         }
 
-        System.out.println(c +" Dahil olmak üzere bu değere kadar, dördün kuvvetleri :" + multiplesOfFour);
-        System.out.println(c +" Dahil olmak üzere bu değere kadar, beşin kuvvetleri :" + multiplesOfFive);
+        System.out.println(c +" Dahil olmak üzere bu değere kadar, 4'ün kuvvetleri :" + multiplesOfFour);
+        System.out.println(c +" Dahil olmak üzere bu değere kadar, 5'in kuvvetleri :" + multiplesOfFive);
         input.close();
     }
 }

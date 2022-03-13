@@ -1,8 +1,10 @@
 # Insertion Sort Project
+#### [Patika : Insertion Sort Projesi](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 <details><summary>Turkish</summary>
   <p>
 
 # Ödev
+## Veri Yapıları ve Algoritmalar - Projeler - Insertion Sort Projesi 
 ## [22, 27, 16, 2, 18, 6]  
 
 ### 1 - Yukarı verilen dizinin Insertion Sort türüne göre aşamalarını yazınız. 

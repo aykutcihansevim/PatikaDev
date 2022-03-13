@@ -1,4 +1,5 @@
 # Flight Ticket Price Calculation
+#### [Patika : Uçak Bileti Fiyatı Hesaplama](https://app.patika.dev/moduller/java101/odev-ucak-bileti)
 <details><summary>Turkish</summary>
 <p>
 

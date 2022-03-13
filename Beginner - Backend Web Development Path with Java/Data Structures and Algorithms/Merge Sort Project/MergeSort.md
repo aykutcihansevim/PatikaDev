@@ -1,8 +1,10 @@
 # Merge Sort Project
+#### [Patika : Merge Sort Projesi](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/merge-sort-proje)
 <details><summary>Turkish</summary>
   <p> 
 
 # Ödev
+## Veri Yapıları ve Algoritmalar - Projeler - Merge Sort Projesi 
 ## [16, 21, 11, 8, 12, 22]  
 
 ### 1 - Yukarı verilen dizinin Merge Sort türüne göre aşamalarını yazınız. 
