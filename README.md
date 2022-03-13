@@ -67,6 +67,75 @@ Source : [Patika.dev About](https://www.patika.dev/about)
 - [Ödev - Vücut Kitle İndeksi Hesaplayan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Basic%20Concepts%20and%20Variables/Body%20Mass%20Index%20Calculator)
 - [Ödev - Manav Kasa Programı](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Basic%20Concepts%20and%20Variables/Grocery%20Cashier%20Program)
 
+## `Java 101 - Koşullu İfadeler ve Kod Blokları` 
+
+- [Pratik - Hesap Makinesi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Calculator)
+- [Pratik - Kullanıcı Girişi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/User%20Login)
+- [Pratik - Sınıfı Geçme Durumu](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Grade%20Pass%20Calculation)
+- [Pratik - Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Suggesting%20Events%20Based%20on%20Air%20Temperature)
+- [Pratik - Sayıları Büyükten Küçüğe Sıralama](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Sorting%20Numbers%20from%20Largest%20to%20Smaller)
+- [Pratik - Burç Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Finding%20Horoscope)
+- [Ödev - Uçak Bileti Fiyatı Hesaplama](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Flight%20Ticket%20Price%20Calculation)
+- [Ödev - Çin Zodyağı Hesaplama](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Chinese%20Zodiac%20Calculator)
+- [Ödev - Artık Yıl Hesaplama](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Conditional%20Expressions%20and%20Code%20Blocks/Leap%20Year%20Calculator)
+  
+## `Java 101 - Döngüler` 
+
+- [Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20the%20Average%20of%20Numbers%20Divided%20by%20Three%20and%20Four)
+- [Pratik - Tek Sayıların Toplamını Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20the%20Sum%20of%20Even%20Numbers%20That%20Are%20Multiples%20of%20Four)
+- [Pratik - Girilen Sayıdan Küçük 2'nin Kuvvetlerini Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Multiples%20of%20Four%20and%20Five)
+- [Pratik - Faktöriyel Hesaplayan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Combination%20Calculation)
+- [Pratik - Üslü Sayı Hesaplayan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Exponential%20Calculation)
+
+ <!---
+- [Pratik - Armstrong Sayıları Bulan Program]()
+- [Pratik - Harmonik Sayıları Bulan Program]()
+- [Pratik - Yıldızlar ile Üçgen Yapımı]()  
+- [Pratik - ATM Projesi]() 
+- [Pratik - EBOB-EKOK Bulan Program]()
+- [Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma]()
+- [Ödev - Mükemmel Sayıyı Bulan Program]()
+- [Ödev - Ters Üçgen Yapımı]()
+- [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program]()
+- [Ödev - Fibonacci Serisi]()
+
+## `Java 101 - Metotlar`
+
+- [Pratik - Palindrom Sayılar]() 
+- [Pratik - Recursive ile Fibonacci Serisi Bulan Program]() 
+- [Pratik - Gelişmiş Hesap Makinesi]() 
+- [Ödev - Üs Hesabı Yapan Program]() 
+- [Ödev - Asal Sayı Bulan Program]() 
+- [Ödev - Desene Göre Metot Oluşturma]() 
+
+## `Java 101 - Sınıflar`
+
+- [Pratik - Öğrenci Bilgi Sistemi]() 
+- [Pratik - Boks Oyunu]() 
+- [Ödev - Maaş Hesaplayıcı]() 
+
+## `Java 101 - Diziler`
+
+- [Pratik - Dizideki Elemanların Ortalamasını Bulan Program]()
+- [Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program]()  
+- [Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program]() 
+- [Pratik - Dizideki Tekrar Eden Sayıları Bulan Program]()
+- [Ödev - Dizideki Elemanları Sıralama]()
+- [Ödev - Dizideki Elemanların Frekansı]()
+- [Ödev - Matris Transpozunu Bulma]()
+
+## `Java 101 - Diğer Konular`
+
+- [Pratik - Sayı Tahmin Oyunu]()
+- [Pratik - Palindromik Kelimleri Bulan Program]()  
+
+## `Java 101 - Bitirme Projesi`
+
+- [Proje - Mayın Tarlası Oyunu]()
+
+-->
+
+  
 </p>
 
 </details>
