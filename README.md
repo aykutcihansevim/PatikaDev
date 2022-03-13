@@ -86,18 +86,18 @@ Source : [Patika.dev About](https://www.patika.dev/about)
 - [Pratik - Girilen Sayıdan Küçük 2'nin Kuvvetlerini Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Multiples%20of%20Four%20and%20Five)
 - [Pratik - Faktöriyel Hesaplayan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Combination%20Calculation)
 - [Pratik - Üslü Sayı Hesaplayan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Exponential%20Calculation)
-
+- [Pratik - Armstrong Sayıları Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Calculating%20the%20Sum%20of%20Digits)
+- [Pratik - Harmonik Sayıları Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Harmonic%20Series)
+- [Pratik - Yıldızlar ile Üçgen Yapımı](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Diamond%20Making%20with%20Stars)  
+- [Pratik - ATM Projesi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/ATM%20Project) 
+- [Pratik - EBOB-EKOK Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20EBOB-EKOK)
+- [Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Minimum%20and%20Maximum%20Values)
+- [Ödev - Mükemmel Sayıyı Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20the%20Perfect%20Number)
+- [Ödev - Ters Üçgen Yapımı](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Inverted%20Triangle%20Construction)
+- [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Prime%20Numbers%20Between%20One%20and%20Hundred)
+- [Ödev - Fibonacci Serisi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Fibonacci%20Series)
+  
  <!---
-- [Pratik - Armstrong Sayıları Bulan Program]()
-- [Pratik - Harmonik Sayıları Bulan Program]()
-- [Pratik - Yıldızlar ile Üçgen Yapımı]()  
-- [Pratik - ATM Projesi]() 
-- [Pratik - EBOB-EKOK Bulan Program]()
-- [Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma]()
-- [Ödev - Mükemmel Sayıyı Bulan Program]()
-- [Ödev - Ters Üçgen Yapımı]()
-- [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program]()
-- [Ödev - Fibonacci Serisi]()
 
 ## `Java 101 - Metotlar`
 
