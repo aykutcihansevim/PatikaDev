@@ -96,17 +96,18 @@ Source : [Patika.dev About](https://www.patika.dev/about)
 - [Ödev - Ters Üçgen Yapımı](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Inverted%20Triangle%20Construction)
 - [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Prime%20Numbers%20Between%20One%20and%20Hundred)
 - [Ödev - Fibonacci Serisi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Loops/Finding%20Fibonacci%20Series)
-  
- <!---
-
+ 
 ## `Java 101 - Metotlar`
 
-- [Pratik - Palindrom Sayılar]() 
-- [Pratik - Recursive ile Fibonacci Serisi Bulan Program]() 
-- [Pratik - Gelişmiş Hesap Makinesi]() 
-- [Ödev - Üs Hesabı Yapan Program]() 
-- [Ödev - Asal Sayı Bulan Program]() 
-- [Ödev - Desene Göre Metot Oluşturma]() 
+- [Pratik - Palindrom Sayılar](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Finding%20Palindrome%20Number) 
+- [Pratik - Recursive ile Fibonacci Serisi Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Finding%20Fibonacci%20Series%20with%20Recursive%20Method) 
+- [Pratik - Gelişmiş Hesap Makinesi](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Advanced%20Calculator) 
+- [Ödev - Üs Hesabı Yapan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Exponent%20Calculation%20with%20Recursive%20Method) 
+- [Ödev - Asal Sayı Bulan Program](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Finding%20Prime%20Numbers%20with%20Recursive%20Method) 
+- [Ödev - Desene Göre Metot Oluşturma](https://github.com/aykutcihansevim/PatikaDev/tree/main/Beginner%20-%20Backend%20Web%20Development%20Path%20with%20Java/Java%20101/Methods/Creating%20Recursive%20Methods%20by%20Pattern) 
+  
+  
+<!---
 
 ## `Java 101 - Sınıflar`
 
